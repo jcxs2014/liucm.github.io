@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+  <head>
+    <title>暗物质粒子空间探测</title>
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <link type="text/css" href="../cssfile/layout.css" rel="stylesheet">
+    </head>
+    <body>
+       <div class="head_body">
+      <div class="headbox">
+	<div class="logobox">
+	  <img src="http://dampe.ustc.edu.cn/pictures/logo2.png" height="120px" class="img-fluid" alt="DMAPE logo">
+	  <img src="http://dampe.ustc.edu.cn/pictures/title222.png" height="120px" class="img-fluid" alt="DAMPE Title">
+	</div>
+	<div class="search">
+	  <input type="text" class="search_key" placeholder="站内搜索" />
+	  <input type="submit" text-align="center" class="submit" value="搜索">
+	  <p>访问旧版</P>
+	</div>
+      </div>
+      <div class="navig">
+	<ul class="mainmenu">
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content"> 首页</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">项目进展</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/intro.html" target="content">项目介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/bkg.html" target="content">项目背景</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/result.html" target="content">科研成果</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html" target="content">报告文章</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#report" target="content">会议报告</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#paper" target="content">发表文章</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#thesis" target="content">毕业论文</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/members.html" target="content">成员风采</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">帮助文档</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/Bgo.html" target="content">Bgo相关介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/DMPSW.html" target="content">DMPSW使用</a></li>
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/tutorials.html" target="content">相关教程</a></li>
+	    </ul>
+	  </li>
+	  <li style="float:right"><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/links.shtml" target="content">English  </a></li>
+	</ul>
+      </div>
+    </div>
+    
+      <!-- <div class="load_head_box">
+	   <iframe src="../head.html" style="width:100%;height:500px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+	   </div> -->
+      
+      <div class="mainbox">
+	<div class="textbox">
+	  <h3>项目背景</h3>
+	  <p style="text-align: justify;text-indent:2em">      
+	    天文观测表明，宇宙的成份中绝大部分是暗物质和暗能量，而人们目前所了解的可见物质只占很少一部分。
+	    虽然通过天文观测，暗物质与暗能量已经得到人们的广泛认可，但是，除引力效应外，人类对暗物质所知甚少，暗物质与暗能量的本质目前尚不为人类所知。暗物质与暗能量是二十一世纪物理学与天文学晴朗天空下的两朵乌云，揭开暗物质、暗能量之谜，将是人类认识宇宙的又一次重大飞跃。理解暗物质和暗能量问题需要发展和建立新的理论并发明新的技术，一旦取得突破，将带来一场重大的物理学和天文学革命。<br><br></p>
+	  <p style="text-align: justify;text-indent:2em">
+	    到空间观测暗物质粒子湮灭产生的末态粒子，如伽玛射线、电子和正电子、反质子等，是暗物质粒子探测的一个重要方法，也是国际物理学界的热点和前沿。国际上已有的实验包括ATIC气球实验、PAMELA 空间探测器、FERMI伽玛射线望远镜、AMS02空间探测器等。<br><br></p>
+	  <p style="text-align: justify;text-indent:2em">
+	    中国科学院空间科学先导专项暗物质粒子探测卫星（<b>DA</b>rk <b>M</b>atter <b>P</b>article <b>E</b>xplorer，<b>DAMPE</b>），是由我国设计、建造和发射的一颗运行于500km高度太阳同步轨道的科学实验卫星，其主要科学目标是在轨开展高能正负电子和伽玛射线的观测，进而探寻暗物质存在的证据，并研究其空间分布特性。该卫星有效载荷共包括4个子探测器：塑闪阵列探测器、硅阵列探测器、BGO量能器、中子探测器。<br><br></p>
+	  <p style="text-align: justify;text-indent:2em">
+	    暗物质粒子探测卫星对电子和伽玛光子的观测能段为5 GeV―10 TeV，要求能量分辨为1.5%@800GeV，这些指标属国际先进水平。 <br />
+	</div>
+	<div class="linkbox">
+
+	  
+	  <iframe src="../linkbar.html" style="width:100%;height:700px" scrolling="no";  frameborder="0"; align=“inherit"> This is linksbar frame of DAMPE page.</iframe>
+	</div>
+	<iframe src="../footer.html" style="width:100%;height:240px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+      </div>
+      
+   
+    </body>
+</html>

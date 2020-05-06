@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+  <head>
+    <title>刘成明的个人主页</title>
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <link type="text/css" href="../cssfile/layout.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="head_body">
+      <div class="headbox">
+	<div class="logobox">
+	  <img src="http://dampe.ustc.edu.cn/pictures/logo2.png" height="120px" class="img-fluid" alt="DMAPE logo">
+	  <img src="http://dampe.ustc.edu.cn/pictures/title222.png" height="120px" class="img-fluid" alt="DAMPE Title">
+	</div>
+	<!-- <div class="search">
+	     <input type="text" class="search_key" placeholder="站内搜索" />
+	     <input type="submit" text-align="center" class="submit" value="搜索">
+	     <p>访问旧版</P>
+	     </div> -->
+      </div>
+      <div class="navig">
+	<ul class="mainmenu">
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/~lcm/" target="content"> 首页</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/~lcm/" target="content">个人记录</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="" target="content">个人文档</a></li>
+              <li><a class="bhead" href="" target="content">工作记录</a></li>
+              <li><a class="bhead" href="" target="content">心情小记</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/~lcm/" target="content">电子资源</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="" target="content">科研文献</a></li>
+              <li><a class="bhead" href="" target="content">国外教材</a></li>
+              <li><a class="bhead" href="/Books/books.html" target="content">电子书</a></li>
+	    </ul>
+	  </li>
+	  
+	  <li><a class="ahead" href="./Books/books.html" target="content">电子书</a></li>
+	</ul>
+      </div>
+    </div>
+    
+    <!-- <div class="load_head_box">
+	 <iframe src="head.html" style="width:100%;height:500px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+	 </div> -->
+    
+    <div class="mainbox">
+      <div class="textbox">
+	
+	<h3>电子书列表</h3>
+	<li><a class="alink" href="./001.epub" target="new">重启人终结篇</a></li>
+	<li><a class="alink" href="./002.epub" target="new">世上有颗后悔药</a></li>
+	<li><a class="alink" href="./003.epub" target="new">流星之绊</a></li>
+	
+	<br>
+      </div>
+
+      
+      <div class="linkbox">
+
+	
+	<iframe src="../linkbar.html" style="width:100%;height:700px" scrolling="no";  frameborder="0"; align=“inherit"> This is linksbar frame of DAMPE page.</iframe>
+      </div>
+      <iframe src="../footer.html" style="width:100%;height:240px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+    </div>
+    
+    
+  </body>
+</html>

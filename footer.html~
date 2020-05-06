@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <link type="text/css" href="./cssfile/layout.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="footer">
+      <div class="footbar">
+	<h3>校内站点</h3>
+	<li><a class="alink" href="https://www.ustc.edu.cn" target="blank">中科大主页</a></li>
+	<li><a class="alink" href="https://yz.ustc.edu.cn" target="blank">研究生招生</a></li>
+	<li><a class="alink" href="https://zsb.ustc.edu.cn" target="blank">本科生招生</a></li>
+	<li><a class="alink" href="https://physics.ustc.edu.cn/main.htm" target="blank">物理学院</a></li>
+	<li><a class="alink" href="https://mphy.ustc.edu.cn" target="blank">近代物理系</a></li>
+	<li><a class="alink" href="http://pnp.ustc.edu.cn/html/" target="blank">核与粒子物理学科</a></li>
+	<br>
+	<li><a class="alink" href="http://yjs.ustc.edu.cn/main.asp" target="blank">研究生信息平台</a></li>
+	<li><a class="alink" href="http://lib.ustc.edu.cn/" target="blank">图书馆</a></li>
+	<li><a class="alink" href="http://bbs.ustc.edu.cn/index.html" target="blank">瀚海星云</a></li>
+	<br>
+	<br>
+	<h3>意见建议</h3>
+	关于本站有任何建议或者意见，欢迎电邮<a class="afoot" href="#">jcxs2014@gmail.com</a>. 感谢大家
+      </div>
+      <div class="copyright">
+	<h3>版权声明</h3>
+	版权所有@2019 <a class="afoot"  href="http://dampe.ustc.edu.cn/webpage/index.html" target="self"> 中国科学技术大学 空间暗物质实验室.</a> 保留所有权.
+	<br>
+	地址：安徽省合肥市金寨路96号 中国科学技术大学，近代物理系
+	<br>
+	<br>
+	<h3>网站开发</h3>
+	Designed by: Laboratory for DArk Matter Search in Space
+      </div>
+    </div>
+  </body>
+</html>
+

@@ -1,0 +1,86 @@
+<!doctype html>
+<html>
+  <head>
+    <title>暗物质粒子空间探测</title>
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <link type="text/css" href="../cssfile/layout.css" rel="stylesheet">
+    </head>
+    <body>
+       <div class="head_body">
+      <div class="headbox">
+	<div class="logobox">
+	  <img src="http://dampe.ustc.edu.cn/pictures/logo2.png" height="120px" class="img-fluid" alt="DMAPE logo">
+	  <img src="http://dampe.ustc.edu.cn/pictures/title222.png" height="120px" class="img-fluid" alt="DAMPE Title">
+	</div>
+	<div class="search">
+	  <input type="text" class="search_key" placeholder="站内搜索" />
+	  <input type="submit" text-align="center" class="submit" value="搜索">
+	  <p>访问旧版</P>
+	</div>
+      </div>
+      <div class="navig">
+	<ul class="mainmenu">
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content"> 首页</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">项目进展</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/intro.html" target="content">项目介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/bkg.html" target="content">项目背景</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/result.html" target="content">科研成果</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html" target="content">报告文章</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#report" target="content">会议报告</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#paper" target="content">发表文章</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#thesis" target="content">毕业论文</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/members.html" target="content">成员风采</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">帮助文档</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/Bgo.html" target="content">Bgo相关介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/DMPSW.html" target="content">DMPSW使用</a></li>
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/tutorials.html" target="content">相关教程</a></li>
+	    </ul>
+	  </li>
+	  <li style="float:right"><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/links.shtml" target="content">English  </a></li>
+	</ul>
+      </div>
+    </div>
+    
+      <!-- <div class="load_head_box">
+	   <iframe src="../head.html" style="width:100%;height:500px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+	   </div> -->
+      
+      <div class="mainbox">
+	<div class="textbox">
+	  <h3>暗物质卫星项目介绍</h3>
+	  <!-- <h3>新闻动态</h3> -->
+	 <p style="text-align: justify;text-indent:2em ">
+	      暗物质粒子探测卫星 (<b>DA</b>rk <b>M</b>atter <b>P</b>article <b>E</b>xplorer，<b>DAMPE</b>) 是国内首个暗物质间接探测的实验卫星，也是中科院空间科学战略性先导专项中首批立项研制的四颗卫星之一。它由中科院紫金山天文台牵头，联合中国科学技术大学、中科院近代物理所、高能物理研究所等国内单位，和日内瓦大学、佩鲁贾大学等国际单位，是以国内为主研制的中国第一颗完全以科学研究为目标的实验卫星。
+	      DAMPE于2009年开始预研，2011年正式立项，经历了电性件、鉴定件和飞行件三个阶段，历时六年多，于2015年12月17日8时12分在酒泉卫星发射中心搭载长征二号丁运载火箭发射升空，并且于2015年12月24日传回首轨科学数据。  </p>    
+	    <center>
+              <a href="../../pictures/dampeinspace.jpg" target="new" ><img src="../../pictures/dampeinspace_s.jpg" alt="dampe in space"></a>
+	    </center>
+	    <p style="text-align: justify; text-indent:2em">
+	      DAMPE是一个空间望远镜，它可以探测高能伽马射线、电子和宇宙射线。它由一个塑料闪烁探测器（PSD）、硅微条（STK）、钨板、电磁量能器（BGO）和中子探测器组成。PSD用作反符合，由两层塑料闪烁体条组成；STK由6个径迹双层，每个由正交摆放的两个单面硅条组成；有三层钨板厚度分别为1cm、2mm、2mm，，插在硅微条的第2、3、4层前面，用作光子转换；BGO有14层，每层22根，相邻两层正交排列，用来测量射线的能量；中子探测器加在量能器的底部。BGO量能器和STK总共大约33个辐射长度，是空间里最深的量能器。</p>
+	    <center>
+              <a href="../../pictures/model.png" target="new" ><img src="../../pictures/model_s.png" alt="dampe model"></a>
+	    </center>
+	    <p style="text-align: justify;text-indent:2em">      
+	      DAMPE的主要科学目标是以更高的能量和更好的分辨率来测量宇宙射线中正负电子之比，以找出可能的暗物质信号。它也有很大潜力来加深人类对于高能宇宙射线的起源和传播机制的理解，也有可能在高能γ射线天文方面有新发现。</p>
+	    <p style="text-align: justify;text-indent:2em">      
+	      DAMPE可以以前所未有的灵敏度和能量范围探测电子，光子和宇宙射线（质子和重离子）。对于电子和光子，探测范围是5GeV - 10TeV，在800GeV的能量分辨率为1%。对于宇宙射线，探测范围为100GeV - 100TeV能区，在800GeV的能量分辨率优于40％。对于电子和光子，几何因子是约0.3 m<sup>2</sup> SR，对于宇宙射线大约0.2 m<sup>2</sup> SR。100 GeV的角分辨率为0.1°。</p>
+	   
+	</div>
+	<div class="linkbox">
+
+	  
+	  <iframe src="../linkbar.html" style="width:100%;height:700px" scrolling="no";  frameborder="0"; align=“inherit"> This is linksbar frame of DAMPE page.</iframe>
+	</div>
+	<iframe src="../footer.html" style="width:100%;height:240px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+      </div>
+      
+   
+    </body>
+</html>

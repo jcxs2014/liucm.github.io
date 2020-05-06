@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+  <head>
+    <title>暗物质粒子空间探测</title>
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <link type="text/css" href="../../cssfile/layout.css" rel="stylesheet">
+  </head>
+  <body>
+    <div class="head_body">
+      <div class="headbox">
+	<div class="logobox">
+	  <img src="http://dampe.ustc.edu.cn/pictures/logo2.png" height="120px" class="img-fluid" alt="DMAPE logo">
+	  <img src="http://dampe.ustc.edu.cn/pictures/title222.png" height="120px" class="img-fluid" alt="DAMPE Title">
+	</div>
+	<div class="search">
+	  <input type="text" class="search_key" placeholder="站内搜索" />
+	  <input type="submit" text-align="center" class="submit" value="搜索">
+	  <p>访问旧版</P>
+	</div>
+      </div>
+      <div class="navig">
+	<ul class="mainmenu">
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content"> 首页</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">项目进展</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/intro.html" target="content">项目介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/bkg.html" target="content">项目背景</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/project/result.html" target="content">科研成果</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html" target="content">报告文章</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#report" target="content">会议报告</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#paper" target="content">发表文章</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/report_thesis/paper.html#thesis" target="content">毕业论文</a></li>
+	    </ul>
+	  </li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/members.html" target="content">成员风采</a></li>
+	  <li><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/index.html" target="content">帮助文档</a>
+	    <ul class="submenu">
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/Bgo.html" target="content">Bgo相关介绍</a></li>
+              <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/DMPSW.html" target="content">DMPSW使用</a></li>
+	      <li><a class="bhead" href="http://dampe.ustc.edu.cn/webpage/helper/tutorials.html" target="content">相关教程</a></li>
+	    </ul>
+	  </li>
+	  <li style="float:right"><a class="ahead" href="http://dampe.ustc.edu.cn/webpage/links.shtml" target="content">English  </a></li>
+	</ul>
+      </div>
+    </div>
+    
+    <!-- <div class="load_head_box">
+	 <iframe src="head.html" style="width:100%;height:500px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+	 </div> -->
+    
+    <div class="mainbox">
+      <div class="textbox">
+	<h3 style="text-align:center">第八届暗物质粒子探测卫星国际合作组研讨会在意大利Gran Sasso Science Institute召开</h3>
+	<p style="text-align: justify;text-indent:2em ">
+	  2018年12月10~12日，第八届“悟空”暗物质粒子探测卫星DAMPE国际合作组会议在意大利拉奎拉格兰萨索科学研究所（Gran Sasso Science Institute，GSSI)召开。来自中国科学院紫金山天文台、中国科学技术大学、高能物理研究所、近代物理研究所，以及瑞士日内瓦大学、意大利国家核物理研究所、佩鲁贾大学、巴里大学, 萨兰托大学、格兰萨索科学研究所等单位近50位专家学者参加了研讨会。DAMPE科学会议通常每半年召开一次，此次会议由GSSI承办。
+	</p>
+	<center>
+	  <!-- <div style="width:600px; height:400px;"> -->
+          <a href="gssi2018.png" target="new" ><img  style="width:600px; height:400px;" src="gssi2018.png" alt="与会人员合影"></a>
+	  <!-- </div> -->
+	</center>
+	<p style="text-align: justify;text-indent:2em ">
+	  会议由DE MITRI, Ivan研究员、COCCIA, Eugenio研究员代表GSSI致欢迎辞。常进作为首席科学家向大家介绍了DAMPE自发射至今的探测器状态、测试及观测情况。会议就DAMPE的在轨刻度及性能，电子分析、核素分析、光子分析和模拟等方面进行了深入探讨。我校核探测与核电子学国家重点实验室黄光顺教授和张云龙副研究员带领博士后、研究生团队共七人参与此次研讨会，并分别做了《Status of the BGO Calorimeter in orbit》（张云龙）、《MIP calibration based on the ATMNC3 package》（文思成）、《Energy reconstruction check using the geomagnetic cutoff on CR nuclei》（戴皓珽）《Research on BGO Quenching Effect and A First Look at the Hadronic Cross Section》（魏逸丰）、《Studies on Carbon flux with DAMPE》（武利波）、《The First Look on Fractional Charged Particle in Space Based on DAMPE》（刘成明）等报告，介绍了在“悟空”卫星成功发射后，国家重点实验室继续积极参与科学应用系统研究开展的卓有成效的工作。研讨会期间还举行了成员单位联席会议，商讨了工作安排、资源调配等事项。
+	</p>
+	<p style="text-align: justify;text-indent:2em ">
+	  会议的成功举行为下一步科学数据的发布奠定了基础，力争早日产出更多有影响的科学成果。
+	</p>
+	<p>(2018-12-06)</p>
+	<p>暗物质粒子空间探测实验室</p>
+      </div>
+      <div class="linkbox">
+
+	
+	<iframe src="../../linkbar.html" style="width:100%;height:700px" scrolling="no";  frameborder="0"; align=“inherit"> This is linksbar frame of DAMPE page.</iframe>
+      </div>
+      <iframe src="../../footer.html" style="width:100%;height:240px" scrolling="no"; marginwidth="0"   frameborder="0";> This is footer frame of DAMPE page.</iframe>
+    </div>
+    
+    
+  </body>
+</html>

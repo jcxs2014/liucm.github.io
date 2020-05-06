@@ -1,0 +1,637 @@
+<!doctype html>
+<html>
+  <head>
+    <!--meta charset="gb2312"-->
+    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+    <title>2011-2014-暗物质粒子空间探测</title>
+    <style type="text/css">
+     #em A { text-decoration: none; color:#4be076;}
+     #em A:active  { text-decoration:blink;color: red}
+     #em a:hover { text-decoration:underline;color: red}
+     #ab A { text-decoration: none; color:blue;}
+     #ab A:active  { text-decoration:blink;color: red}
+     #ab a:hover { text-decoration:underline;color: red}
+     body {
+       margin-left: 10px;
+       margin-top: 10px;
+       margin-right: 10px;
+       margin-bottom: 10px;
+
+       background: url(../../../pictures/330183.jpg) no-repeat fixed center;
+       background-size:100%;
+       background-position:top;
+       background-color: #0a0f1c;
+
+     }
+     .bold{font-weight: bold;}
+     p{
+       font-size:1em;
+       font-weight:bold;
+       background:rgb(202,205,158);
+
+       padding:0.em;
+     }
+     ul{
+
+       list-style-type:none;
+       font-size:0.8em;
+
+     }
+     li{
+       padding:0.7em;
+       padding-left:1.75em;
+       border-bottom:1px dashed black;
+       background:url(download.jpg) no-repeat;
+       background-size:2em 2em;
+       background-position:0 0.1em;
+     }
+     li>span{
+       diaplay:inlie-block;
+       float:right;
+       width:12em;
+     }
+    </style>
+  </head>
+
+  <body>
+    <div id="em">
+
+      <!!--#include file="head.html"-->
+      <iframe src="../../head.html" width="100%" height="185" frameborder="0" align="center" scrolling=no></iframe>
+
+      <!--ÕýÎÄ-->
+
+
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+	<caption><p>&nbsp;&nbsp;&nbsp;&nbsp;>>2014年度子子课题科研成果知识产权统计表</p></caption>
+	<div id="em">
+          <tbody align="center">
+            <tr bgcolor="#89CFF0">
+              <td rowspan="8" width="5%" class="bold">发表论文</td>
+              <td rowspan="1" width="5%" class="bold">发表方式</td>
+              <th class="title" width="5%">No.</th> 
+	      <th width="35%" >Title</th> 
+	      <th width="20%">作者</th> 
+	      <th width="8%">Journal</th>
+	      <th width="12%">年、卷、期、页</th>
+              <th width="10%">是否《SCI》</td>
+            </tr>
+
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="1" class="bold">国外期刊</td>
+              <td>1</td>
+              <td>Title
+              </td>
+              <td>author</td>
+              <td>journal</td>
+              <td>year</td>
+              <td>SCI</td>
+            </tr>
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="5" class="bold">国内期刊</td>
+              <td>1</td>
+              <td>Radiation tolerance studies on the VA32 ASIC for DAMPE BGO calorimeter
+                <a href="../../../linksfold/list_of_paper/paper_thesis/2014/Radiation tolerance studies on the VA32 ASIC for DAMPE BGO calorimeter.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>GAO Shan-Shan,FENG Chang-Qing, JIANG Di, LIU Shu-Bin, etc.</td>
+              <td>NUCLEAR SCIENCE AND TECHNIQUES</td>
+              <td>Vol. 25, No. 1, 文献号010402</td>
+              <td>是</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Magnetic shielding for DAMPE electromagnetic calorimeter PMTs
+                <a href="../../../linksfold/list_of_paper/paper_thesis/2014/Magnetic shielding for DAMPE electromagnetic calorimeter PMTs.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>Wang, PL; Zhang, YL; Wang, XL; Xu, ZZ</td>
+              <td>CHINESE PHYSICS C</td>
+              <td>Vol. 38, No. 8, 文献号086002</td>
+              <td>是 </td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Study on the temperature dependence of BGO light yield
+                <a href="../../../linksfold/list_of_paper/paper_thesis/2014/Study on the temperature dependence of BGO light yield.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>Wang Peolong, Zhang Yunlong, Xu Zizong, Wang Xiaolian</td>
+              <td>Sci. China-Phys. Mech. Astron</td>
+              <td>Vol 57, No 10, 2014</td>
+              <td>是 </td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>Study of linearity for a high dynamic range calorimeter
+                <a href="../../../linksfold/list_of_paper/paper_thesis/2014/Study of linearity for a high dynamic range calorimeter.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>XIANG Tian, JIN Xi, DONG Jia-Ning, ZHANG Yun-Long, XU Zi-Zong, LIU Shu-Bin, An Qi</td>
+              <td>CHINESE PHYSICS C</td>
+              <td>Vol. 38, No. 4 (2014) 046201</td>
+              <td>是 </td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>大动态范围闪烁晶体荧光模拟器的设计
+                <a href="../../../linksfold/list_of_paper/paper_thesis/2014/Design of fluorescence simulator with  large dynamic  range for scintillation crystal.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>项天、金西、董家宁、封常青、刘树彬</td>
+              <td>光学精密工程</td>
+              <td>Vol.22, No.2、304-310</td>
+              <td>否 </td>
+            </tr>
+      </table>
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+
+        <tbody align="center">
+          <tr bgcolor="#89CFF0">
+            <td rowspan="20" width="5%" class="bold">会议报告</td>
+            <td rowspan="1" width="5%" class="bold">发表方式</td>
+            <th class="title" width="5%">序号</th> 
+	    <th width="35%" >报告名称</th> 
+	    <th width="8%">报告人</th> 
+	    <th width="18%">会议名称</th>
+	    <th width="16%">会议时间</th>
+            <th width="8%">报告类型</td>
+          </tr>
+          <tr>
+            <td bgcolor="#ACE5EE" rowspan="6" class="bold">国际会议</td>
+            <td>1</td>
+            <td>Design of the Readout Electronics for the Qualification Model of DAMPE BGO Calorimeter
+            </td>
+            <td>Changqing Feng</td>
+            <td>IEEE 2014 (19th) Real Time Conference</td>
+            <td>2014.05</td>
+            <td>张贴、口头报告</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>The BGO Electromagnetic Calorimeter Sub-trigger Electronics for DAMPE</td>
+            <td>Shanshan Gao</td>
+            <td>IEEE 2014 (19th) Real Time Conference</td>
+            <td>2014.05</td>
+            <td>张贴、口头报告</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Study on FPGA SEU Mitigation for Readout Electronics of DAMPE BGO Calorimeter</td>
+            <td> Zhongtao Shen</td>
+            <td>IEEE 2014 (19th) Real Time Conference</td>
+            <td>2014.05</td>
+            <td>张贴、口头报告</td>
+          </tr>
+          <tr>
+            <td>4</td>
+            <td>Design of a Test Platform for Screening Procedures of VA160 and VATA160 ASICs in DAMPE Mission</td>
+            <td> Di Jiang</td>
+            <td>IEEE 2014 (19th) Real Time Conference</td>
+            <td>2014.05</td>
+            <td>张贴、口头报告</td>
+          </tr>
+          <tr>
+            <td>5</td>
+            <td>Radiation Effects Test and SEL Protection Solution for the Front End ASICs of DAMPE BGO Calorimeter</td>
+            <td>Deliang Zhang</td>
+            <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+            <td>2014.11</td>
+            <td>张贴</td>
+          </tr>
+          <tr>
+            <td>6</td>
+            <td>Large area position-sensitive plastic scintillator detector with wavelength-shifting fiber readout</td>
+            <td>Jianing Dong</td>
+            <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+            <td>2014.11</td>
+            <td>张贴</td>
+          </tr>
+          <tr>
+            <td bgcolor="#ACE5EE" rowspan="1" class="bold">全国性会议</td>
+            <td>1</td>
+            <td>
+            </td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+
+        </tbody>
+
+
+
+
+
+	<!--thead> 
+	     <tr bgcolor="#89CFF0">
+             <th class="title" width="5%">No.</th> 
+             <th width="40%">Title</th> 
+             <th width="15%">arXiv</th> 
+             <th width="30%">Journal</th>
+             <th width="10%">Status</th>
+	     </tr> 
+	     </thead-->
+      </table>
+
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+	<caption><p>&nbsp;&nbsp;&nbsp;&nbsp;>>2013年度子子课题科研成果知识产权统计表</p></caption>
+	<div id="em">
+          <!--tbody align="center">
+               <tr bgcolor="#89CFF0">
+               <td rowspan="8" width="5%" class="bold">发表论文</td>
+               <td rowspan="1" width="5%" class="bold">发表方式</td>
+               <th class="title" width="5%">No.</th> 
+	       <th width="35%" >Title</th> 
+	       <th width="20%">作者</th> 
+	       <th width="8%">Journal</th>
+	       <th width="12%">年、卷、期、页</th>
+               <th width="10%">是否《SCI》</td>
+               </tr>
+
+               <tr>
+               <td bgcolor="#ACE5EE" rowspan="1" class="bold">国外期刊</td>
+               <td>1</td>
+               <td>Title
+               </td>
+               <td>author</td>
+               <td>journal</td>
+               <td>year</td>
+               <td>SCI</td>
+               </tr>
+               <tr>
+               <td bgcolor="#ACE5EE" rowspan="5" class="bold">国内期刊</td>
+               <td>1</td>
+               <td>Radiation tolerance studies on the VA32 ASIC for DAMPE BGO calorimeter
+               <a href="paper_thesis/2014/Radiation tolerance studies on the VA32 ASIC for DAMPE BGO calorimeter.pdf" target="_blank"><font size="-2">点击查看</font></a>
+               </td>
+               <td>GAO Shan-Shan,FENG Chang-Qing, JIANG Di, LIU Shu-Bin, etc.</td>
+               <td>NUCLEAR SCIENCE AND TECHNIQUES</td>
+               <td>Vol. 25, No. 1, 文献号010402</td>
+               <td>是</td>
+               </tr>
+               <tr>
+               <td>2</td>
+               <td>Magnetic shielding for DAMPE electromagnetic calorimeter PMTs
+               <a href="paper_thesis/2014/Magnetic shielding for DAMPE electromagnetic calorimeter PMTs.pdf" target="_blank"><font size="-2">点击查看</font></a>
+               </td>
+               <td>Wang, PL; Zhang, YL; Wang, XL; Xu, ZZ</td>
+               <td>CHINESE PHYSICS C</td>
+               <td>Vol. 38, No. 8, 文献号086002</td>
+               <td>是 </td>
+               </tr>
+               <tr>
+               <td>3</td>
+               <td>Study on the temperature dependence of BGO light yield
+               <a href="paper_thesis/2014/Study on the temperature dependence of BGO light yield.pdf" target="_blank"><font size="-2">点击查看</font></a>
+               </td>
+               <td>Wang Peolong, Zhang Yunlong, Xu Zizong, Wang Xiaolian</td>
+               <td>Sci. China-Phys. Mech. Astron</td>
+               <td>Vol 57, No 10, 2014</td>
+               <td>是 </td>
+               </tr>
+               <tr>
+               <td>3</td>
+               <td>Study of linearity for a high dynamic range calorimeter
+               <a href="paper_thesis/2014/Study of linearity for a high dynamic range calorimeter.pdf" target="_blank"><font size="-2">点击查看</font></a>
+               </td>
+               <td>XIANG Tian, JIN Xi, DONG Jia-Ning, ZHANG Yun-Long, XU Zi-Zong, LIU Shu-Bin, An Qi</td>
+               <td>CHINESE PHYSICS C</td>
+               <td>Vol. 38, No. 4 (2014) 046201</td>
+               <td>是 </td>
+               </tr>
+               <tr>
+               <td>3</td>
+               <td>大动态范围闪烁晶体荧光模拟器的设计
+               <a href="paper_thesis/2014/Design of fluorescence simulator with  large dynamic  range for scintillation crystal.pdf" target="_blank"><font size="-2">点击查看</font></a>
+               </td>
+               <td>项天、金西、董家宁、封常青、刘树彬</td>
+               <td>光学精密工程</td>
+               <td>Vol.22, No.2、304-310</td>
+               <td>否 </td>
+               </tr>
+	       </table>
+	       <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+
+               <tbody align="center">
+               <tr bgcolor="#89CFF0">
+               <td rowspan="20" width="5%" class="bold">会议报告</td>
+               <td rowspan="1" width="5%" class="bold">发表方式</td>
+               <th class="title" width="5%">序号</th> 
+	       <th width="35%" >报告名称</th> 
+	       <th width="8%">报告人</th> 
+	       <th width="18%">会议名称</th>
+	       <th width="16%">会议时间</th>
+               <th width="8%">报告类型</td>
+               </tr>
+               <tr>
+               <td bgcolor="#ACE5EE" rowspan="6" class="bold">国际会议</td>
+               <td>1</td>
+               <td>Design of the Readout Electronics for the Qualification Model of DAMPE BGO Calorimeter
+               </td>
+               <td>Changqing Feng</td>
+               <td>IEEE 2014 (19th) Real Time Conference</td>
+               <td>2014.05</td>
+               <td>张贴、口头报告</td>
+               </tr>
+               <tr>
+               <td>2</td>
+               <td>The BGO Electromagnetic Calorimeter Sub-trigger Electronics for DAMPE</td>
+               <td>Shanshan Gao</td>
+               <td>IEEE 2014 (19th) Real Time Conference</td>
+               <td>2014.05</td>
+               <td>张贴、口头报告</td>
+               </tr>
+               <tr>
+               <td>3</td>
+               <td>Study on FPGA SEU Mitigation for Readout Electronics of DAMPE BGO Calorimeter</td>
+               <td> Zhongtao Shen</td>
+               <td>IEEE 2014 (19th) Real Time Conference</td>
+               <td>2014.05</td>
+               <td>张贴、口头报告</td>
+               </tr>
+               <tr>
+               <td>4</td>
+               <td>Design of a Test Platform for Screening Procedures of VA160 and VATA160 ASICs in DAMPE Mission</td>
+               <td> Di Jiang</td>
+               <td>IEEE 2014 (19th) Real Time Conference</td>
+               <td>2014.05</td>
+               <td>张贴、口头报告</td>
+               </tr>
+               <tr>
+               <td>5</td>
+               <td>Radiation Effects Test and SEL Protection Solution for the Front End ASICs of DAMPE BGO Calorimeter</td>
+               <td>Deliang Zhang</td>
+               <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+               <td>2014.11</td>
+               <td>张贴</td>
+               </tr>
+               <tr>
+               <td>6</td>
+               <td>Large area position-sensitive plastic scintillator detector with wavelength-shifting fiber readout</td>
+               <td>Jianing Dong</td>
+               <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+               <td>2014.11</td>
+               <td>张贴</td>
+               </tr>
+               <tr>
+               <td bgcolor="#ACE5EE" rowspan="1" class="bold">全国性会议</td>
+               <td>1</td>
+               <td>
+               </td>
+               <td></td>
+               <td></td>
+               <td></td>
+               <td></td>
+               </tr>
+
+               </tbody-->
+
+
+
+
+
+	  <!--thead> 
+	       <tr bgcolor="#89CFF0">
+               <th class="title" width="5%">No.</th> 
+               <th width="40%">Title</th> 
+               <th width="15%">arXiv</th> 
+               <th width="30%">Journal</th>
+               <th width="10%">Status</th>
+	       </tr> 
+	       </thead-->
+      </table>
+
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+	<caption><p>&nbsp;&nbsp;&nbsp;&nbsp;>>2012年度子子课题科研成果知识产权统计表</p></caption>
+	<div id="em">
+          <tbody align="center">
+            <tr bgcolor="#89CFF0">
+              <td rowspan="8" width="5%" class="bold">发表论文</td>
+              <td rowspan="1" width="5%" class="bold">发表方式</td>
+              <th class="title" width="5%">No.</th> 
+	      <th width="35%" >Title</th> 
+	      <th width="20%">作者</th> 
+	      <th width="8%">Journal</th>
+	      <th width="12%">年、卷、期、页</th>
+              <th width="10%">是否《SCI》</td>
+            </tr>
+
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="1" class="bold">国外期刊</td>
+              <td>1</td>
+              <td>Title
+              </td>
+              <td>author</td>
+              <td>journal</td>
+              <td>year</td>
+              <td>SCI</td>
+            </tr>
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="5" class="bold">国内期刊</td>
+              <td>1</td>
+              <td>A high dynamic range readout unit for a calorimeter
+                <a href="paper_thesis/2014/A high dynamic range readout unit for a calorimeter.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>Zhang Yunlong, Li Bing, Feng Changqing, Li Xianli, Wang Xiaolian, Xu Zizong, Guo Jianhua, Cai Mingsheng, Hu Yiming, Wu Jian, Chang Jin</td>
+              <td>CHINESE PHYSICS C</td>
+              <td>Vol. 36, No. 8, 2012</td>
+              <td>是</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>Delay line readout of a large dimension multi-wire proportional chamber
+                <a href="paper_thesis/2014/Delay line readout of a large dimension multi-wire proportional chamber.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>Li Xianli, Zhang Yunlong, Qian Hao, Xu Zizong, Wang Xiaolian</td>
+              <td>CHINESE PHYSICS C</td>
+              <td>Vol. 36, No. 6, 2012</td>
+              <td>是 </td>
+            </tr>
+
+      </table>
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+
+        <!--tbody align="center">
+             <tr bgcolor="#89CFF0">
+             <td rowspan="20" width="5%" class="bold">会议报告</td>
+             <td rowspan="1" width="5%" class="bold">发表方式</td>
+             <th class="title" width="5%">序号</th> 
+	     <th width="35%" >报告名称</th> 
+	     <th width="8%">报告人</th> 
+	     <th width="18%">会议名称</th>
+	     <th width="16%">会议时间</th>
+             <th width="8%">报告类型</td>
+             </tr>
+             <tr>
+             <td bgcolor="#ACE5EE" rowspan="6" class="bold">国际会议</td>
+             <td>1</td>
+             <td>Design of the Readout Electronics for the Qualification Model of DAMPE BGO Calorimeter
+             </td>
+             <td>Changqing Feng</td>
+             <td>IEEE 2014 (19th) Real Time Conference</td>
+             <td>2014.05</td>
+             <td>张贴、口头报告</td>
+             </tr>
+             <tr>
+             <td>2</td>
+             <td>The BGO Electromagnetic Calorimeter Sub-trigger Electronics for DAMPE</td>
+             <td>Shanshan Gao</td>
+             <td>IEEE 2014 (19th) Real Time Conference</td>
+             <td>2014.05</td>
+             <td>张贴、口头报告</td>
+             </tr>
+             <tr>
+             <td>3</td>
+             <td>Study on FPGA SEU Mitigation for Readout Electronics of DAMPE BGO Calorimeter</td>
+             <td> Zhongtao Shen</td>
+             <td>IEEE 2014 (19th) Real Time Conference</td>
+             <td>2014.05</td>
+             <td>张贴、口头报告</td>
+             </tr>
+             <tr>
+             <td>4</td>
+             <td>Design of a Test Platform for Screening Procedures of VA160 and VATA160 ASICs in DAMPE Mission</td>
+             <td> Di Jiang</td>
+             <td>IEEE 2014 (19th) Real Time Conference</td>
+             <td>2014.05</td>
+             <td>张贴、口头报告</td>
+             </tr>
+             <tr>
+             <td>5</td>
+             <td>Radiation Effects Test and SEL Protection Solution for the Front End ASICs of DAMPE BGO Calorimeter</td>
+             <td>Deliang Zhang</td>
+             <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+             <td>2014.11</td>
+             <td>张贴</td>
+             </tr>
+             <tr>
+             <td>6</td>
+             <td>Large area position-sensitive plastic scintillator detector with wavelength-shifting fiber readout</td>
+             <td>Jianing Dong</td>
+             <td>IEEE 2014 Nuclear Science Symposium and Medical Imaging Conference</td>
+             <td>2014.11</td>
+             <td>张贴</td>
+             </tr>
+             <tr>
+             <td bgcolor="#ACE5EE" rowspan="1" class="bold">全国性会议</td>
+             <td>1</td>
+             <td>
+             </td>
+             <td></td>
+             <td></td>
+             <td></td>
+             <td></td>
+             </tr>
+
+             </tbody-->
+
+
+
+
+
+	<!--thead> 
+	     <tr bgcolor="#89CFF0">
+             <th class="title" width="5%">No.</th> 
+             <th width="40%">Title</th> 
+             <th width="15%">arXiv</th> 
+             <th width="30%">Journal</th>
+             <th width="10%">Status</th>
+	     </tr> 
+	     </thead-->
+      </table>
+
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+	<caption><p>&nbsp;&nbsp;&nbsp;&nbsp;>>2011年度子子课题科研成果知识产权统计表</p></caption>
+	<div id="em">
+          <tbody align="center">
+            <tr bgcolor="#89CFF0">
+              <td rowspan="8" width="5%" class="bold">发表论文</td>
+              <td rowspan="1" width="5%" class="bold">发表方式</td>
+              <th class="title" width="5%">No.</th> 
+	      <th width="35%" >Title</th> 
+	      <th width="20%">作者</th> 
+	      <th width="8%">Journal</th>
+	      <th width="12%">年、卷、期、页</th>
+              <th width="10%">是否《SCI》</td>
+            </tr>
+
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="1" class="bold">国外期刊</td>
+              <td>1</td>
+              <td>Title
+              </td>
+              <td>author</td>
+              <td>journal</td>
+              <td>year</td>
+              <td>SCI</td>
+            </tr>
+            <tr>
+              <td bgcolor="#ACE5EE" rowspan="5" class="bold">国内期刊</td>
+              <td>1</td>
+              <td>Evaluation of particle acceptance for space particle telescope
+                <a href="paper_thesis/2014/Evaluation of particle acceptance for space particle telescope.pdf" target="_blank"><font size="-2">点击查看</font></a>
+              </td>
+              <td>Zhang Yunlong, Wang Xiaolian, Xu Zizong, </td>
+              <td>CHINESE PHYSICS C</td>
+              <td>Vol. 35, No. 8, 2011</td>
+              <td>是</td>
+            </tr>
+
+      </table>
+      <table width="987" border="1" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+
+        <tbody align="center">
+          <tr bgcolor="#89CFF0">
+            <td rowspan="20" width="5%" class="bold">会议报告</td>
+            <td rowspan="1" width="5%" class="bold">发表方式</td>
+            <th class="title" width="5%">序号</th> 
+	    <th width="35%" >报告名称</th> 
+	    <th width="8%">报告人</th> 
+	    <th width="18%">会议名称</th>
+	    <th width="16%">会议时间</th>
+            <th width="8%">报告类型</td>
+          </tr>
+          <tr>
+            <td bgcolor="#ACE5EE" rowspan="6" class="bold">国际会议</td>
+            <td>1</td>
+            <td>High Energy Electrons/Positrons and Gamma Rays Detector (TANSUO) of China
+            </td>
+            <td>Yunlong Zhang</td>
+            <td>32ND International Cosmic Ray Conference</td>
+            <td>2011.8.11-2011.8.18</td>
+            <td>口头</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Readout Electronics for the Prototype Detector of the TANSUO Satellite</td>
+            <td>Changqing Feng</td>
+            <td>32ND International Cosmic Ray Conference</td>
+            <td>2011.08.11-2011.08.18</td>
+            <td>张贴</td>
+          </tr>
+
+
+        </tbody>
+
+
+
+
+
+	<!--thead> 
+	     <tr bgcolor="#89CFF0">
+             <th class="title" width="5%">No.</th> 
+             <th width="40%">Title</th> 
+             <th width="15%">arXiv</th> 
+             <th width="30%">Journal</th>
+             <th width="10%">Status</th>
+	     </tr> 
+	     </thead-->
+      </table>
+      <table width="987" border="0" align="center" bgcolor="FFFFFF" cellpadding="0" cellspacing="0">
+	<tr><td>
+
+	  <h1 style="text-align: right"> <font size="+2"><a href="../paper_list.html">返回上一页</h1>
+	</td> </tr>
+
+
+      </table>
+	</div>
+  </body>
+</html>
