@@ -276,18 +276,29 @@ p{
 
     Background-color:#ffffff;
 }
+.mainbox h2{
+    margin: 0 0 1em;
+    padding: 0 1em 0.5em;
+    font-size: 1.5em;
+    font-weight: normal;
+    text-align:center;
+    color: black;
+    border-bottom: 0.1em dashed #d5d5d5;
+    /* font-family: "Microsoft YaHei"; */
+}
 .textbox{
     margin:0px auto;
     margin-bottom:1em;
-    margin-right:1em;
-    border-right:0.2em solid silver;
-    padding-left:3em;
-    padding-right:3em;
-    width:60%;
+    margin-right:0.5em;
+    margin-left: 0.5em
+    border:0.2em solid silver;
+    padding-left:1em;
+    padding-right:1em;
+    width:45%;
     height: 50em auto;
     /* position:relative; */
     /* left:395px; */
-    float:left;
+    /* float:left; */
     Background-color:transparent;
 
 }
