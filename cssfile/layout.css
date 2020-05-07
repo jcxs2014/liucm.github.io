@@ -411,7 +411,7 @@ p{
     position:relative;
     z-index:99;
     width:100%;
-    height: 7.5em auto;
+    height: 20em auto;
     /* position:relative; */
     /* left:395px; */
     float:right;
@@ -427,7 +427,7 @@ p{
     /* padding-right:10px;
     padding-left: 10px; */
     width:90%;
-    height:15em;
+    height:20em auto;
     Background-color:transparent;
 }
 .footer h3{
@@ -445,6 +445,7 @@ p{
 }
 .footbar{
     width:65%;
+    height: 20em auto;
     float:left;
     color:gray;
     font-size:0.9em;
@@ -466,6 +467,7 @@ p{
 }
 .copyright {
     width: 30%;
+    height: 20em auto;
     /* margin-right:10px; */
 
     float: right;
