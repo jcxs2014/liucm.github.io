@@ -14,6 +14,7 @@ body{margin-top:0.2em;
      width:100%;
      flex-direction:column;/* foot沉底的设置 */
      overflow:visible;
+     /* overflow:hidden; */
     }
 .head_body{margin-top:0.2em;
      height:auto;
@@ -286,6 +287,23 @@ p{
     border-bottom: 0.1em dashed #d5d5d5;
     /* font-family: "Microsoft YaHei"; */
 }
+.loadbox{
+    margin:0px auto;
+    margin-bottom:1em;
+    margin-right:0.5em;
+    margin-left: 0.5em
+    border:0.2em solid silver;
+    padding-left:1em;
+    padding-right:1em;
+    width:100%;
+    height: 50em auto;
+    position: relative;
+    /* position:relative; */
+    /* left:395px; */
+    /* float:left; */
+    Background-color:transparent;
+
+}
 .textbox{
     margin:0px auto;
     margin-bottom:1em;
@@ -296,6 +314,7 @@ p{
     padding-right:1em;
     width:45%;
     height: 50em auto;
+    position: relative;
     /* position:relative; */
     /* left:395px; */
     /* float:left; */
