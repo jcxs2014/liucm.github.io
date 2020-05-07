@@ -2,7 +2,12 @@
 body{margin-top:2px;
      height:auto;
      /* color:#666; */
-     Background-color:#efefef;
+     /*Background-color:#efefef;*/
+    background-color: #9999ff;
+ 		background-image: url(""), -moz-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
+ 		background-image: url(""), -webkit-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
+ 		background-image: url(""), -ms-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
+ 		background-image: url(""), linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
      border:2px;
      display:flex;
      flex-direction:column;/* foot沉底的设置 */
@@ -127,7 +132,8 @@ p{
     /* height:50px; */
     border:0px;
     border-radius:10px;
-    Background-color:#1f3e85;
+    /*Background-color:#1f3e85;*/
+    Background-color:transparent;
     vertical-align:center;
     position:relative; z-index:1;
     /* text-indent:2em; */
@@ -150,7 +156,7 @@ p{
     left:-55px;
     display:none;
     position:absolute;
-    background-color:#1f3e85;
+    background-color:transparent;
     width:120px;
 
 
@@ -264,21 +270,23 @@ p{
     /* height: 120px auto; */
     /* position:relative; */
     /* left:395px; */
+    border-radius: 0.25em;
 
     Background-color:#ffffff;
 }
 .textbox{
     margin:0px auto;
     margin-bottom:10px;
+    margin-right:10px;
     border-right:2px solid silver;
-    padding-left:10px;
-    padding-right:10px;
-    width:700px;
+    padding-left:40px;
+    padding-right:40px;
+    width:650px;
     height: 900px auto;
     /* position:relative; */
     /* left:395px; */
     float:left;
-    Background-color:#ffffff;
+    Background-color:transparent;
 
 }
 .textbox h3{
@@ -318,6 +326,7 @@ p{
 }
 .linkbox{
     margin:0px auto;
+    margin-top:15px;
     margin-bottom:20px;
     /* border-left:2px dashed; */
     padding-left:00px;
@@ -329,7 +338,7 @@ p{
     /* position:relative; */
     /* left:395px; */
     float:right;
-    Background-color:#ffffff;
+    Background-color:transparent;
 }
 .linkbox h3{
     margin: 0 0 15px;
@@ -344,6 +353,22 @@ p{
     list-style:none;
     padding: 0 0 8px;
 }
+.footerbox{
+    margin:0px auto;
+    margin-top:20px;
+    margin-bottom:20px;
+    /* border-left:2px dashed; */
+    padding-left:00px;
+    padding-right:px;
+    position:relative;
+    z-index:99;
+    width:1100px;
+    height: 120px auto;
+    /* position:relative; */
+    /* left:395px; */
+    float:right;
+    Background-color:transparent;
+}
 .footer{
     /* border:4px dashed red; */
     border-radius:0px 0px 10px 10px;
@@ -354,7 +379,7 @@ p{
     padding-right:10px;
     width:1100px;
     height:240px;
-    Background-color:#1f3e85;
+    Background-color:transparent;
 }
 .footer h3{
     margin:0 0 5px;
@@ -372,7 +397,7 @@ p{
 .footbar{
     width:700px;
     float:left;
-    color:silver;
+    color:gray;
     font-size:13px;
     margin-right:0px;
     margin-left:10px;
@@ -393,7 +418,7 @@ p{
     margin-right:10px;
 
     float: right;
-    color:silver;
+    color:gray;
     font-size:13px;
 }
 .copyright h3{
