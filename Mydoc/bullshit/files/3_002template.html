@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+  <title>七说八道</title>
+  <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=10; IE=9; IE=8; IE=7; IE=EDGE">
+  <link type="text/css" href="../../../cssfile/layout.css" rel="stylesheet">
+
+
+</head>
+<body>
+  <div class="head_body">
+    <div class="headbox">
+      <div class="logobox">
+        <!--  <img src="./pictures/logo2.png" height="60px" class="img-fluid" alt="DMAPE logo">
+        <img src="./pictures/title222.png" height="60px" class="img-fluid" alt="DAMPE Title">
+      -->
+    </div>
+    <!-- <div class="search">
+    <input type="text" class="search_key" placeholder="站内搜索" />
+    <input type="submit" text-align="center" class="submit" value="搜索">
+    <p><a class="alink" href="http://dampe.ustc.edu.cn/old_version1/index.html" target="content">访问旧版</a></P>
+  </div> -->
+</div>
+<div class="navig">
+  <ul class="mainmenu">
+    <li><a class="ahead" href="http://jcxs2014.github.io" target="content"> Blog</a></li>
+
+    <li style="float:right"><a class="ahead" href="../../contact/contact.html" target="content">About</a></li>
+  </ul>
+  <ul class="myname">
+    <li >七说八道</li>
+  </ul>
+</div>
+
+</div>
+
+<!-- <div class="load_head_box">
+<iframe src="head.html" style="width:100%;height:350px" scrolling="no";  frameborder="0";> This is thenavigation frame of DAMPE page.</iframe>
+</div> -->
+
+<div class="mainbox" style="background:#B4CDCD">
+  <link type="text/css" href="../../../../cssfile/typora.css" rel="stylesheet">
+  <div class="typorabox">
+
+    <div  id='write'  class = 'is-mac'><h1><a name="记五月五日午睡梦" class="md-header-anchor"></a><span>记五月五日午睡梦</span></h1><p><span>午睡的时候做了一个梦。和一个英语博主约好见面（怎么就那么巧，博主就在合肥/泪奔又怎么那么巧，博主有时间见我这么一个陌生人/泪奔）。</span></p><p><span>去了他家里，貌似是一栋别墅，然后就有熊孩子在楼下的院子里吵，博主出去看了一下说：你为什么偷我们家的桃子？小孩说，我不是偷，你这桃子这么多，我不吃都坏了。我也出去看了一下，这树上分明只有几个烂梨子/吓。</span></p><p><span>过后我就和博主继续聊天，我简单介绍了一下自己，姓甚名谁，如何认识他的等等。他说了一句话的时候，周围突然吵了起来，我没听清就问他说什么，这时候外面更吵了，我们就一起出去了。</span></p><p><span>结果我发现外面是一群“人”，都是人身兽面，刚刚那个小孩子也在里面，看到博主他们就一直叽里哇啦说个不停，我听了好久不知道他们说啥，博主说，你们别吵，慢慢说，那小孩一直在前面蹦蹦跳跳，这时候也安静下来，我一看他还有只尾巴，原来是只猴子/泪奔。</span></p><p><span>然后一个长着猪头的人站了出来对博主说：博主啊，下次你拿人举例子的时候，能不能把我们也算上，妖人也是人啊。大千世界真实无奇不有啊，畜生也想被当作人，然后我就笑醒了/笑哭</span></p>
+    </div>
+
+    <div id='write'  class = 'is-mac'>
+      <p style="text-align:right;"><span>
+        2020-05-06
+        </span></p>
+    </div>
+    <div  id='write'  class = 'is-mac'><h2><a name="typora编辑器--picgo图片管理--阿里云oss图床" class="md-header-anchor"></a><span>Typora编辑器 + PicGo图片管理 + 阿里云OSS图床</span></h2><ol start='' ><li><span>缘起</span></li></ol><p><span>使用markdown进行工作记录也有一段时间了，得益于typora在粘贴图片之后，自动拷贝图片到本地目录的功能，也没有什么特别复杂的东西。但是在分享东西给别人的时候，只能导出为pdf或者word，这样做的时候，排版就变得很奇怪，word还能自己调整一下，但是pdf就没有办法解决了。于是我就想如果能直接分享导出的html文件，这样别人只要有浏览器就能看了，但是这个时候就要用到的图床了。图床的作用就是把图片存在网页上，对应的图片生成一个链接，然后利用markdown语法插入到文本中就可以调用图片了。</span></p><ol start='2' ><li><span>准备</span></li></ol><p><span>知道自己想要什么之后，就开始准备了，typora内置了几个图片管理的软件如下图，之所以选择PicGo是因为他的后缀是.app，非常直觉地认为这个软件应该挺适合的，于是就下载了。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225720.png" style="zoom: 67%;" /></p><p><span>原以为下载一个软件就可以上传图片了，下载的时候也在想，难道一个软件还能免费提供服务器？这个问题在我安装完成之后就被解答了，答案是：不。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225725.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 10.07.31"></p><p><span>PicGo里面内置了几个流行的图床接口，它只是实现一个集成管理的功能，具体选择哪一个还要看自己选择的图床运营商，然后我又在知乎搜索了几个图床的评价，经过考虑之后决定用GitHub图床，首先是我有</span><strong><span>GitHub</span></strong><span>账号，其次，GitHub空间似乎没有限制，再者GitHub已经被Microsoft收购，稳定性应该有保证。</span></p><p><span>说干就干，按照网上的教程一顿操作，typora上传图片的测试是完成了，但是自己上传文档里的图片的时候，发现图片变黑了，在PicGo的相册中，图片也是黑的，打开Github，图片是在里面的。可能是网络不太好，毕竟GitHub是国外的服务器，纠结了一会儿之后遂放弃。</span></p><p><span>接下来试验</span><strong><span>七牛云</span></strong><span>图床，七牛云在我刚对图床有点好奇的时候就很有名了，但是那时候没有需求，也就没有过多的了解。这次需求来了，就要好好地研究一下，同样是按照网上的教程注册，建立空间，设置权限等等。到了最后的时候，发现七牛云提供服务，但是需要绑定自己的域名，还要是备案过的，我只是想存个图片啊，为啥要经历这些。七牛云提供一个为期三十天的测试域名，三十天之后会回收，那就意味着，这几天能正常使用，但是三十天之后就不能用了，除非绑定域名。</span></p><p><span>又上网搜索了一下，发现这个问题的解决也简单，自己买一个域名绑定上就可以了，但是我个人没有做网页的需求，买个域名需要额外的花销，不太值得。然后又看到有人说可以在阿里云买一个域名，还帮助备案，我一想，</span><strong><span>阿里云</span></strong><span>也有自己的图床服务，不如直接用阿里的好了，如果也需要买域名，就在阿里云买一个，反正大公司，信赖还是有的。</span></p><ol start='3' ><li><span>实操</span></li></ol><p><span>根据PicGo上的图床服务名称，搜索</span><em><span>阿里云OSS</span></em><span>，OSS是对象存储的意思，按照教程的说法，主要有以下步骤：</span></p><ul><li><span>注册账号</span></li><li><span>购买OSS服务的存储空间</span></li><li><span>购买流量（按量计费）</span></li><li><span>创建子用户</span></li><li><span>创建图片存储空间</span></li><li><span>设置PicGo</span></li><li><span>上传图片</span></li></ul><p><span>下面逐条介绍</span></p><ul><li><span>注册账号</span></li></ul><p><span>注册账号非常简单，直接点击右上角</span><em><span>免费注册</span></em><span>，用支付宝扫码就可以注册（也有其他可选方式），注册之后不会主动跳转页面，这点比较坑，需要点击登陆再次登录（用注册的方式，扫码或者账号密码）。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225734.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 10.51.53"></p><ul><li><span>购买OSS服务的存储空间</span></li></ul><p><span>登陆之后，右上角有个人空间的入口，接下来需要购买存储空间。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225739.png" alt="截屏2020-05-06 10.58.51" style="zoom: 50%;" /></p><p><span>点击</span><strong><span>控制台</span></strong><span>进入，鼠标放在右上角，自动弹出导航栏，选择对</span><strong><span>象存储OSS</span></strong><span>，由于我已经购买，看不到购买界面了，或者不在这个地方，找找就能看见。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225742.png" alt="截屏2020-05-06 11.03.34" style="zoom:50%;" /></p><p><span>OSS资源包是包月购买的，类型如下。我对图像存储的需求不是很大，前面四个都是默认的选择，后期还可以升级空间。资源包购买一年以上会有7.5折的优惠，考虑到自己入坑了应该就不会轻易爬出来，于是就买了一年。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225746.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 11.09.04"></p><ul><li><span>购买流量（按量计费）</span></li></ul><p><span>上图只是购买了存储空间，上行下行的流量是需要单独收费的，购买资源包之后，默认的收费方式是按量计费。具体的存储包和流量费用说明参见</span><em><a href='https://help.aliyun.com/document_detail/59636.html?spm=5176.8465980.0.0.4e701450ChgEGF'><span>帮助文档</span></a></em><span>，里面有详细说明。</span></p><ul><li><span>创建子用户</span></li></ul><p><span>主账号的权限太大了，作为图片存储的日常使用建议建立一个子用户。鼠标放在头像处点击</span><em><span>访问控制</span></em><span>，在弹出窗口左侧点击</span><em><span>用户</span></em><span>，接着点击</span><em><span>创建用户</span></em><span>，按照提示输入自己想设置的账户信息。在访问方式中勾选编程访问，这是利用第三方工具上传图片必须的一步。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225750.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 11.46.45"></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225754.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 11.48.01"></p><p><span>用户创建完成后，会生成</span><em><span>Access ID</span></em><span>和</span><em><span>Access secret</span></em><span>，可以点击</span><strong><span>复制</span></strong><span>保存在记事本中，备用。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225759.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 11.56.07"></p><p><span>返回</span><em><span>用户</span></em><span>界面为创立的子用户设置权限，由于只是图片上传，所以选择</span><em><span>管理对象存储服务（OSS）权限</span></em><span>即可，保存</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225802.png" referrerpolicy="no-referrer" alt="截屏2020-05-06 11.58.39"></p><ul><li><span>创建图片存储空间</span></li></ul><p><span>购买存储空间之后，默认流量是按量计费。在控制台的导航栏点击</span><strong><span>象存储OSS</span></strong><span>，右边有一个窗口显示</span><em><span>Bucket管理</span></em></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225807.png" alt="截屏2020-05-06 11.32.37" style="zoom:50%;" /></p><p><span>点击</span><strong><span>创建Bucket</span></strong><span>，出现下图所示界面，Bucket名称是自己定义的名字，类似于自己在服务器上的账号，不能和别人的一样。因为我买的资源包是</span><em><span>中国大陆通用</span></em><span>，所以区域这里就选择了一个和自己比较近的就可以了，注意区域下面的提示，这个不管你买没买资源包，都会有，不用管它。其他的选项保持默认就行，有些服务开通了可能要另外收费。唯独</span><strong><span>读写权限</span></strong><span>那一项，需要选择</span><em><span>公共读</span></em><span>，不然图片无法正常显示。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225811.png" alt="截屏2020-05-06 11.34.10" style="zoom:50%;" /></p><p><span>创建完成后，从</span><em><span>Bucket列表</span></em><span>进入自己的Bucket，记住自己的访问域名。</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225818.png" alt="截屏2020-05-06 12.07.11" style="zoom:50%;" /></p><p><span>至此，图床的设置已经结束。</span></p><ul><li><span>设置PicGo</span></li></ul><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225821.png" alt="截屏2020-05-06 12.11.10" style="zoom: 33%;" /></p><p><span>前面四个必填的的对应地填上就可以了，ID和secret是设置子用户之后生成的，存储空间名就是自己设置的独一的Bucket名称，存储区域就是自己访问域名中的前面一段。最后确定，如果只有一个图床那就建议把它设置为默认图床。</span></p><ul><li><span>上传图片</span></li></ul><p><span>进行操作之前先把typora和PicGo都关闭，然后打开typora进入设置，到</span><strong><span>图像</span></strong><span>栏，上传服务选择PicGo.app，首先验证图片上传选项，如果之前对图床和PicGo的设置没有问题，软件会自动上传一张图片到服务器，出现上传成功的提示</span></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225826.png" alt="截屏2020-05-06 12.17.16" style="zoom:50%;" /></p><p><img src="https://jcxs2014.oss-cn-shanghai.aliyuncs.com/20200507225832.png" alt="截屏2020-05-06 12.20.53" style="zoom:50%;" /></p><ol start='4' ><li><span>后记</span></li></ol><p><span>Typora有上传文档中所有图片的选项，我试了几次，发现上传上去之后，文中的图片被打乱了。所以我暂时不建议批量上传。只能用笨方法，一张一张地上传了。</span></p><p><span>阿里云的按量计费需要提前往里面充值，昨天产生了大概60M的流量，晚上提醒我欠费0.02元会在24小时之内停止服务。我赶紧去充值了，根据别人的经验，这个流量费也不贵，平时随便用用也不会有多少费用。</span></p><p><span>现在有了图床，希望以后能多些一点图文并貌的记录吧。</span></p></div>
+
+  </div>
+
+  <!-- <script>
+function handleFiles(files)
+{
+  if(files.length){
+    let file = '';
+    let reader = new FileReader();
+    reader.onload = function(){
+      document.getElementById('3_002.md').innerHTML = this.result;
+    };
+    reader.readAsText(file);
+   }
+}
+</script> -->
+
+  <!-- <script src="../../../jsfile/marked.js"></script>
+  <script>
+  document.getElementById('content').innerHTML =
+  marked('# 记五月五日午睡梦\n午睡的时候');
+  </script>-->
+  <!-- <div class="linkbox">
+  <iframe src="../../linkbar.html" style="width:100%;height:700px" scrolling="no"; frameborder="0"; align="inherit"> This is thenavigation frame of DAMPE page.</iframe>
+</div> -->
+</div>
+<div class="footerbox">
+  <iframe src="../../../footer.html" style="width:100%;height:240px" scrolling="no"; marginwidth="0"  frameborder="0";> This is thenavigation frame of DAMPE page.</iframe>
+</div>
+
+</body>
+</html>

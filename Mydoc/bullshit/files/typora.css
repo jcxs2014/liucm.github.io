@@ -1,65 +1,52 @@
-<!doctype html>
-<html>
-<head>
-<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
-<title>记五月五日午睡梦</title><link href='file://night/mermaid.dark.css' rel='stylesheet' type='text/css' /><link href='file://night/codeblock.dark.css' rel='stylesheet' type='text/css' /><link href='file://night/sourcemode.dark.css' rel='stylesheet' type='text/css' />
-<style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color: #ffffff; --text-color: #333333; --select-text-bg-color: #B5D6FC; --select-text-font-color: auto; --monospace: "Lucida Console",Consolas,"Courier",monospace; }
-html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857143; overflow-x: hidden; background-image: inherit; background-size: inherit; background-attachment: inherit; background-origin: inherit; background-clip: inherit; background-color: inherit; tab-size: 4; background-position: inherit inherit; background-repeat: inherit inherit; }
-iframe { margin: auto; }
-a.url { word-break: break-all; }
-a:active, a:hover { outline: 0px; }
+.typorabox iframe { margin: auto; }
+.typorabox a.url { word-break: break-all; }
+.typorabox a:active, .typorabox a:hover { outline: 0px; }
 .in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
 #write { margin: 0px auto; height: auto; width: inherit; word-break: normal; word-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 40px; }
 #write.first-line-indent p { text-indent: 2em; }
 #write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
 #write.first-line-indent li { margin-left: 2em; }
 .for-image #write { padding-left: 8px; padding-right: 8px; }
-body.typora-export { padding-left: 30px; padding-right: 30px; }
+
 .typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
-@media screen and (max-width: 500px) {
-  body.typora-export { padding-left: 0px; padding-right: 0px; }
-  #write { padding-left: 20px; padding-right: 20px; }
-  .CodeMirror-sizer { margin-left: 0px !important; }
-  .CodeMirror-gutters { display: none !important; }
-}
+
 #write li > figure:last-child { margin-bottom: 0.5rem; }
 #write ol, #write ul { position: relative; }
-img { max-width: 100%; vertical-align: middle; }
-button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
-input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+.typorabox img { max-width: 100%; vertical-align: middle; }
+.typorabox button, input, select, textarea { color: inherit; font-family: inherit; font-size: inherit; font-style: inherit; font-variant-caps: inherit; font-weight: inherit; font-stretch: inherit; line-height: inherit; }
+.typorabox input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
 *, ::after, ::before { box-sizing: border-box; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
-p { line-height: inherit; }
-h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
-p { orphans: 4; }
-h1 { font-size: 2rem; }
-h2 { font-size: 1.8rem; }
-h3 { font-size: 1.6rem; }
-h4 { font-size: 1.4rem; }
-h5 { font-size: 1.2rem; }
-h6 { font-size: 1rem; }
+.typorabox p { line-height: inherit; }
+.typorabox h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 2; }
+.typorabox p { orphans: 4; text-align: justify;}
+.typorabox h1 { font-size: 2rem; text-align: justify;}
+.typorabox h2 { font-size: 1.8rem; }
+.typorabox h3 { font-size: 1.6rem; }
+.typorabox h4 { font-size: 1.4rem; }
+.typorabox h5 { font-size: 1.2rem; }
+.typorabox h6 { font-size: 1rem; }
 .md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
 .hidden { display: none; }
 .md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
-a { cursor: pointer; }
-sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
-sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+.typorabox a { cursor: pointer; }
+.typorabox sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-top-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; cursor: pointer; }
+.typorabox sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
 #write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
-figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
-figure > table { margin: 0px !important; }
+.typorabox figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+.typorabox figure > table { margin: 0px !important; }
 tr { break-inside: avoid; break-after: auto; }
-thead { display: table-header-group; }
-table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
-table.md-table td { min-width: 32px; }
+.typorabox thead { display: table-header-group; }
+.typorabox table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+.typorabox table.md-table td { min-width: 32px; }
 .CodeMirror-gutters { border-right-width: 0px; background-color: inherit; }
 .CodeMirror-linenumber { }
 .CodeMirror { text-align: left; }
 .CodeMirror-placeholder { opacity: 0.3; }
 .CodeMirror pre { padding: 0px 4px; }
 .CodeMirror-lines { padding: 0px; }
-div.hr:focus { cursor: none; }
+.typorabox div.hr:focus { cursor: none; }
 #write pre { white-space: pre-wrap; }
 #write.fences-no-line-wrapping pre { white-space: pre; }
 #write pre.ty-contain-cm { white-space: normal; }
@@ -74,27 +61,20 @@ div.hr:focus { cursor: none; }
 .footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
 .footnotes + .footnotes { margin-top: 0px; }
 .md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; background-position: 0px 0px; background-repeat: initial initial; }
-li div { padding-top: 0px; }
-blockquote { margin: 1rem 0px; }
-li .mathjax-block, li p { margin: 0.5rem 0px; }
-li { margin: 0px; position: relative; }
-blockquote > :last-child { margin-bottom: 0px; }
-blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.typorabox li div { padding-top: 0px; }
+.typorabox blockquote { margin: 1rem 0px; }
+.typorabox li .mathjax-block, li p { margin: 0.5rem 0px; }
+.typorabox li { margin: 0px; position: relative; }
+.typorabox blockquote > :last-child { margin-bottom: 0px; }
+.typorabox blockquote > :first-child, li > :first-child { margin-top: 0px; }
 .footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
 #write .footnote-line { white-space: pre-wrap; }
-@media print {
-  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; }
-  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
-  .typora-export * { -webkit-print-color-adjust: exact; }
-  html.blink-to-pdf { font-size: 13px; }
-  .typora-export #write { padding-left: 32px; padding-right: 32px; padding-bottom: 0px; break-after: avoid; }
-  .typora-export #write::after { height: 0px; }
-}
+
 .footnote-line { margin-top: 0.714em; font-size: 0.7em; }
-a img, img a { cursor: pointer; }
+.typorabox a img, img a { cursor: pointer; }
 pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background-color: rgb(204, 204, 204); display: block; overflow-x: hidden; background-position: initial initial; background-repeat: initial initial; }
-p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
-p > .md-image:only-child { display: inline-block; width: 100%; }
+.typorabox p > .md-image:only-child:not(.md-img-error) img, .typorabox p > img:only-child { display: block; margin: auto; }
+.typorabox p > .md-image:only-child { display: inline-block; width: 100%; }
 #write .MathJax_Display { margin: 0.8em 0px 0px; }
 .md-math-block { width: 100%; }
 .md-math-block:not(:empty)::after { display: none; }
@@ -122,15 +102,15 @@ p > .md-image:only-child { display: inline-block; width: 100%; }
   .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
   .md-toc-h6 .md-toc-inner { margin-left: 8em; }
 }
-a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.typorabox a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
 .footnote-line a:not(.reversefootnote) { color: inherit; }
 .md-attr { display: none; }
 .md-fn-count::after { content: "."; }
-code, pre, samp, tt { font-family: var(--monospace); }
-kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
+.typorabox code, pre, samp, tt { font-family: var(--monospace); }
+.typorabox kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background-color: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; background-position: initial initial; background-repeat: initial initial; }
 .md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
-code { text-align: left; }
-a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
+.typorabox code { text-align: left; }
+.typorabox a.md-print-anchor { white-space: pre !important; border: none !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; text-shadow: initial !important; background-position: 0px 0px !important; background-repeat: initial initial !important; }
 .md-inline-math .MathJax_SVG .noError { display: none !important; }
 .html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
 .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: hidden; display: block !important; }
@@ -144,14 +124,14 @@ a.md-print-anchor { white-space: pre !important; border: none !important; displa
 .md-diagram-panel > svg { max-width: 100%; }
 [lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
 [lang="mermaid"] .node text { font-size: 1rem; }
-table tr th { border-bottom-width: 0px; }
-video { max-width: 100%; display: block; margin: 0px auto; }
-iframe { max-width: 100%; width: 100%; border: none; }
+.typorabox table tr th { border-bottom-width: 0px; }
+.typorabox video { max-width: 100%; display: block; margin: 0px auto; }
+.typorabox iframe { max-width: 100%; width: 100%; border: none; }
 .highlight td, .highlight tr { border: 0px; }
-svg[id^="mermaidChart"] { line-height: 1em; }
-mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
+.typorabox svg[id^="mermaidChart"] { line-height: 1em; }
+.typorabox mark { background-color: rgb(255, 255, 0); color: rgb(0, 0, 0); background-position: initial initial; background-repeat: initial initial; }
 .md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
-mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
+.typorabox mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 
 
 /* Flowchart variables */
@@ -198,7 +178,7 @@ mark .md-meta { color: rgb(0, 0, 0); opacity: 0.3 !important; }
 .cluster text {
   fill: #F9FFFE; }
 
-div.mermaidTooltip {
+.typorabox div.mermaidTooltip {
   position: absolute;
   text-align: center;
   max-width: 200px;
@@ -215,7 +195,7 @@ div.mermaidTooltip {
   stroke: #81B1DB;
   fill: #BDD5EA; }
 
-text.actor {
+.typorabox text.actor {
   fill: black;
   stroke: none; }
 
@@ -481,7 +461,7 @@ text.actor {
   fill: #323D47;
    }
 
-g.classGroup text {
+.typorabox g.classGroup text {
   fill: #9370DB;
   stroke: none;
 
@@ -489,11 +469,11 @@ g.classGroup text {
   g.classGroup text .title {
     font-weight: bolder; }
 
-g.classGroup rect {
+.typorabox g.classGroup rect {
   fill: #BDD5EA;
   stroke: #9370DB; }
 
-g.classGroup line {
+.typorabox g.classGroup line {
   stroke: #9370DB;
   stroke-width: 1; }
 
@@ -568,26 +548,26 @@ g.classGroup line {
 .slice {
    }
 
-g.stateGroup text {
+.typorabox g.stateGroup text {
   fill: #eee;
   stroke: none;
   font-size: 10px;
    }
 
-g.stateGroup circle {
+.typorabox g.stateGroup circle {
   fill: white !important;
   stroke: white !important;
 }
 
-g.stateGroup .state-title {
+.typorabox g.stateGroup .state-title {
   font-weight: bolder;
   fill: black; }
 
-g.stateGroup rect {
+.typorabox g.stateGroup rect {
   fill: #ececff;
   stroke: #9370DB; }
 
-g.stateGroup line {
+.typorabox g.stateGroup line {
   stroke: #9370DB;
   stroke-width: 1; }
 
@@ -801,36 +781,22 @@ g.stateGroup line {
     --search-select-bg-color: #428bca;
 }
 
-html {
-    font-size: 16px;
-}
 
-html,
-body {
-    -webkit-text-size-adjust: 100%;
-    -ms-text-size-adjust: 100%;
-    background: #363B40;
-    background: var(--bg-color);
-    fill: currentColor;
-    line-height: 1.625rem;
-}
+
 
 #write {
     max-width: 914px;
 }
-
-html,
-body,
-button,
-input,
-select,
-textarea,
-div.code-tooltip-content {
+.typorabox button,
+.typorabox input,
+.typorabox select,
+.typorabox textarea,
+.typorabox div.code-tooltip-content {
     color: #b8bfc6;
     border-color: transparent;
 }
 
-div.code-tooltip,
+.typorabox div.code-tooltip,
 .md-hover-tip .md-arrow:after {
     background: #333;
 }
@@ -839,27 +805,26 @@ div.code-tooltip,
     border-bottom-color: #333;
 }
 
-html,
-body,
-button,
-input,
-select,
-textarea {
+
+.typorabox button,
+.typorabox input,
+.typorabox select,
+.typorabox textarea {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-hr {
+.typorabox hr {
     height: 2px;
     border: 0;
     margin: 24px 0 !important;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+.typorabox h1,
+.typorabox h2,
+.typorabox h3,
+.typorabox h4,
+.typorabox h5,
+.typorabox h6 {
     font-family: "Lucida Grande", "Corbel", sans-serif;
     font-weight: normal;
     clear: both;
@@ -867,10 +832,10 @@ h6 {
     word-wrap: break-word;
     margin: 0;
     padding: 0;
-    color: #DEDEDE
+    color: #303030
 }
 
-h1 {
+.typorabox h1 {
     font-size: 2.5rem;
     /* 36px */
     line-height: 2.75rem;
@@ -880,18 +845,19 @@ h1 {
     letter-spacing: -1.5px;
 }
 
-h2 {
+.typorabox h2 {
     font-size: 1.63rem;
     /* 24px */
     line-height: 1.875rem;
     /* 30px */
     margin-bottom: 1.5rem;
+    border-bottom: 0;
     /* 24px */
     letter-spacing: -1px;
     font-weight: bold;
 }
 
-h3 {
+.typorabox h3 {
     font-size: 1.17rem;
     /* 18px */
     line-height: 1.5rem;
@@ -902,7 +868,7 @@ h3 {
     font-weight: bold;
 }
 
-h4 {
+.typorabox h4 {
     font-size: 1.12rem;
     /* 16px */
     line-height: 1.375rem;
@@ -912,7 +878,7 @@ h4 {
     color: white;
 }
 
-h5 {
+.typorabox h5 {
     font-size: 0.97rem;
     /* 16px */
     line-height: 1.25rem;
@@ -922,7 +888,7 @@ h5 {
     font-weight: bold;
 }
 
-h6 {
+.typorabox h6 {
     font-size: 0.93rem;
     /* 16px */
     line-height: 1rem;
@@ -970,38 +936,38 @@ h6 {
     }
 }
 
-a {
+.typorabox a {
     text-decoration: none;
     outline: 0;
 }
 
-a:hover {
+.typorabox a:hover {
     outline: 0;
 }
 
-a:focus {
+.typorabox a:focus {
     outline: thin dotted;
 }
 
-sup.md-footnote {
+.typorabox sup.md-footnote {
     background-color: #555;
     color: #ddd;
 }
 
-p {
+.typorabox p {
     -ms-word-wrap: break-word;
     word-wrap: break-word;
 }
 
-p,
-ul,
-dd,
-ol,
-hr,
-address,
-pre,
-table,
-iframe,
+.typorabox p,
+.typorabox ul,
+.typorabox dd,
+.typorabox ol,
+.typorabox hr,
+.typorabox address,
+.typorabox pre,
+.typorabox table,
+.typorabox iframe,
 .wp-caption,
 .wp-audio-shortcode,
 .wp-video-shortcode {
@@ -1010,11 +976,11 @@ iframe,
     /* 24px */
 }
 
-li > blockquote {
+.typorabox li > blockquote {
 	margin-bottom: 0;
 }
 
-audio:not([controls]) {
+.typorabox audio:not([controls]) {
     display: none;
 }
 
@@ -1035,42 +1001,42 @@ audio:not([controls]) {
     text-shadow: none;
 }
 
-ul,
-ol {
+.typorabox ul,
+.typorabox ol {
     padding: 0 0 0 1.875rem;
     /* 30px */
 }
 
-ul {
+.typorabox ul {
     list-style: square;
 }
 
-ol {
+.typorabox ol {
     list-style: decimal;
 }
 
-ul ul,
-ol ol,
-ul ol,
-ol ul {
+.typorabox ul ul,
+.typorabox ol ol,
+.typorabox ul ol,
+.typorabox ol ul {
     margin: 0;
 }
 
-b,
-th,
-dt,
-strong {
+.typorabox b,
+.typorabox th,
+.typorabox dt,
+.typorabox strong {
     font-weight: bold;
 }
 
-i,
-em,
-dfn,
-cite {
+.typorabox i,
+.typorabox .typorabox em,
+.typorabox dfn,
+.typorabox cite {
     font-style: italic;
 }
 
-blockquote {
+.typorabox blockquote {
     padding-left: 1.875rem;
     margin: 0 0 1.875rem 1.875rem;
     border-left: solid 2px #474d54;
@@ -1078,22 +1044,22 @@ blockquote {
     margin-top: 35px;
 }
 
-pre,
-code,
-kbd,
-tt,
-var {
+.typorabox pre,
+.typorabox code,
+.typorabox kbd,
+.typorabox tt,
+.typorabox var {
     font-size: 0.875rem;
     font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
 }
 
-code,
-tt,
-var {
+.typorabox code,
+.typorabox tt,
+.typorabox var {
     background: rgba(0, 0, 0, 0.05);
 }
 
-kbd {
+.typorabox kbd {
     padding: 2px 4px;
     font-size: 90%;
     color: #fff;
@@ -1102,7 +1068,7 @@ kbd {
     box-shadow: inset 0 -1px 0 rgba(0,0,0,.25);
 }
 
-pre.md-fences {
+.typorabox pre.md-fences {
     padding: 10px 10px 10px 30px;
     margin-bottom: 20px;
     background: #333;
@@ -1120,46 +1086,46 @@ pre.md-fences {
     right: 4px;
 }
 
-code,
-kbd,
-tt,
-var {
+.typorabox code,
+.typorabox kbd,
+.typorabox tt,
+.typorabox var {
     padding: 2px 5px;
 }
 
-table {
+.typorabox table {
     max-width: 100%;
     width: 100%;
     border-collapse: collapse;
     border-spacing: 0;
 }
 
-th,
-td {
+.typorabox th,
+.typorabox td {
     padding: 5px 10px;
     vertical-align: top;
 }
 
-a {
+.typorabox a {
     -webkit-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
 }
 
-hr {
+.typorabox hr {
     background: #474d54;
     /* variable */
 }
 
-h1 {
+.typorabox  h1 {
     margin-top: 2em;
 }
 
-a {
+.typorabox a {
     color: #e0e0e0;
     text-decoration: underline;
 }
 
-a:hover {
+.typorabox a:hover {
     color: #fff;
 }
 
@@ -1167,29 +1133,29 @@ a:hover {
     color: #81b1db;
 }
 
-b,
-th,
-dt,
-strong {
-    color: #DEDEDE;
+.typorabox b,
+.typorabox th,
+.typorabox dt,
+.typorabox strong {
+    color: #8b8b00;
     /* variable */
 }
 
-mark {
+.typorabox mark {
     background: #D3D40E;
 }
 
-blockquote {
+.typorabox blockquote {
     color: #9DA2A6;
 }
 
-table a {
+.typorabox table a {
     color: #DEDEDE;
     /* variable */
 }
 
-th,
-td {
+.typorabox th,
+.typorabox td {
     border: solid 1px #474d54;
     /* variable */
 }
@@ -1366,12 +1332,12 @@ td {
     color: white;
 }
 
-h1.md-focus .md-attr,
-h2.md-focus .md-attr,
-h3.md-focus .md-attr,
-h4.md-focus .md-attr,
-h5.md-focus .md-attr,
-h6.md-focus .md-attr,
+.typorabox h1.md-focus .md-attr,
+.typorabox h2.md-focus .md-attr,
+.typorabox h3.md-focus .md-attr,
+.typorabox h4.md-focus .md-attr,
+.typorabox h5.md-focus .md-attr,
+.typorabox h6.md-focus .md-attr,
 .md-header-span .md-attr {
     color: #8C8E92;
     display: inline;
@@ -1441,11 +1407,11 @@ h6.md-focus .md-attr,
     background-color: #777777;
 }
 
-footer {
+.typorabox footer {
     color: inherit;
 }
 
-@media (max-width: 1000px) {
+.typorabox @media (max-width: 1000px) {
     footer {
         border-top: none;
     }
@@ -1758,9 +1724,3 @@ footer.ty-footer {
 }
 
  .typora-export li, .typora-export p, .typora-export,  .footnote-line {white-space: normal;}
-</style>
-</head>
-<body class='typora-export' >
-<div  id='write'  class = 'is-mac'><h1><a name="记五月五日午睡梦" class="md-header-anchor"></a><span>记五月五日午睡梦</span></h1><p><span>午睡的时候做了一个梦。和一个英语博主约好见面（怎么就那么巧，博主就在合肥/泪奔又怎么那么巧，博主有时间见我这么一个陌生人/泪奔）。</span></p><p><span>去了他家里，貌似是一栋别墅，然后就有熊孩子在楼下的院子里吵，博主出去看了一下说：你为什么偷我们家的桃子？小孩说，我不是偷，你这桃子这么多，我不吃都坏了。我也出去看了一下，这树上分明只有几个烂梨子/吓。</span></p><p><span>过后我就和博主继续聊天，我简单介绍了一下自己，姓甚名谁，如何认识他的等等。他说了一句话的时候，周围突然吵了起来，我没听清就问他说什么，这时候外面更吵了，我们就一起出去了。</span></p><p><span>结果我发现外面是一群“人”，都是人身兽面，刚刚那个小孩子也在里面，看到博主他们就一直叽里哇啦说个不停，我听了好久不知道他们说啥，博主说，你们别吵，慢慢说，那小孩一直在前面蹦蹦跳跳，这时候也安静下来，我一看他还有只尾巴，原来是只猴子/泪奔。</span></p><p><span>然后一个长着猪头的人站了出来对博主说：博主啊，下次你拿人举例子的时候，能不能把我们也算上，妖人也是人啊。大千世界真实无奇不有啊，畜生也想被当作人，然后我就笑醒了/笑哭</span></p></div>
-</body>
-</html>
