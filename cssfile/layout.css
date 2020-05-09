@@ -278,8 +278,9 @@ p{
   Background-color:#ffffff;
 }
 .mainbox h2{
-  margin: 0 0 1em;
+  margin: 0.5em 0 1em;
   padding: 0 1em 0.5em;
+  padding-top: 1em
   font-size: 1.5em;
   font-weight: normal;
   text-align:center;
@@ -288,7 +289,7 @@ p{
   /* font-family: "Microsoft YaHei"; */
 }
 .textbox{
-  margin:0em auto;
+  margin:0.5em auto;
   margin-bottom:1em;
   margin-right:0.5em;
   margin-left: 0.5em
@@ -320,7 +321,7 @@ p{
   font-weight: normal;
   text-align:center;
   color: black;
-  border-bottom: 0.1em dashed #d5d5d5;
+  /* border-bottom: 0.1em dashed #d5d5d5; */
   /* font-family: "Microsoft YaHei"; */
 }
 .textbox li{
