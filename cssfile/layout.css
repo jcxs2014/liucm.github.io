@@ -46,9 +46,9 @@ a,input{outline:none;}
   border:0em dashed;
   margin:0em auto;
   position:relative;
-  right:10em;
+  /*right:10em;*/
   padding-bottom:0.3em;
-  width:50em;
+  /*width:50em;*/
   height:0em;
 
 }
@@ -145,7 +145,7 @@ p{
 .mainmenu
 {
   list-style: none;
-  margin: opx;
+  margin: 0em;
 
   padding:0 1em;
 }
@@ -341,7 +341,7 @@ p{
   border-radius:0.3em;
 }
 .linkbox{
-  margin:0px auto;
+  margin:0em auto;
   /* margin-top:1em;
   margin-bottom:1em; */
   /* border-left:2px dashed; */
@@ -373,9 +373,9 @@ p{
   Background-color:transparent;
 }
 .linker h3{
-  margin: 0 0 15px;
-  padding: 0 0 8px;
-  font-size: 16px;
+  margin: 0 0 1em;
+  padding: 0 0 0.5em;
+  font-size: 1em;
   font-weight: normal;
   color: #515151;
   border-bottom: 1px dashed #d5d5d5;
@@ -383,7 +383,7 @@ p{
 }
 .linker li{
   list-style:none;
-  padding: 0 0 8px;
+  padding: 0 0 0.5em;
 }
 .footerbox{
   margin:0 auto;
