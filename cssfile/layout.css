@@ -4,7 +4,8 @@ body{margin-top:0.2em;
   margin:0 auto;
   /* color:#666; */
   /*Background-color:#efefef;*/
-  background-color: #9999ff;
+  background-color: #b5ddff;
+  /*#9999ff;*/
   /* background-image: url(""), -moz-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
   background-image: url(""), -webkit-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
   background-image: url(""), -ms-linear-gradient(45deg, #99cccc 15%, #9999ff 85%);
@@ -169,7 +170,6 @@ p{
   margin-top:0.5em;
   text-align:center;
   display:none;
-  font-size:small;
   width:100%;
   position:relative;
 }
@@ -185,7 +185,7 @@ p{
   /* padding:0px; */
 }
 .bhead:hover,.bhead:active{
-  background-color:silver;
+  /*background-color:silver;*/
   color:black;
 }
 .bhead:link,.bhead:visited
@@ -218,7 +218,8 @@ p{
 .myname
 {
   list-style: none;
-  margin-top: 2em;
+  margin-top: 1em;
+  margin-bottom: 2em;
   font-weight:bold;
   /* line-height:200%; */
   color:#FFFFFF;
@@ -235,7 +236,7 @@ p{
 
 
   width:100%;
-  font-size:5em;
+  font-size:2em;
   /* padding:0 20px; */
 
 }
@@ -418,7 +419,7 @@ p{
   margin:0 0 0.3em;
   /* padding:4px 8px 5px; */
   border-bottom:0.1em #ffff45 dashed;
-  color:#ddd;
+  color:#424242;
   font-size:0.9em;
 }
 .footer li{
@@ -465,7 +466,7 @@ p{
   /* padding-right:px; */
   font-size: 1em;
   font-weight: normal;
-  color: #ddd;
+  color: #424242;
   border-bottom: 1px dashed #d5d5d5;
   /* font-family: "Microsoft YaHei"; */
 }
