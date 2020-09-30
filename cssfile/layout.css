@@ -326,7 +326,7 @@ p{
   /* font-family: "Microsoft YaHei"; */
 }
 .textbox li{
-  height: 2em auto;
+  height: 1em auto;
   list-style:none;
   padding: 0 0 0.5em;
 }
